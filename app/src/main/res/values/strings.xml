@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Arcom</string>
+    <string name="app_logeo">Registrate y Partcipa</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="registro">Registrate</string>
+    <string name="entrar">Entrar</string>
+    <string name="portafolio">Portafolio</string>
+    <string name="registrar">Registro</string>
+    <string name="eventos">Eventos</string>
+    <string name="promociones">Promociones</string>
+    <string name="escribeme">Escribenos</string>
+    <string name="perfil">Perfil</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="open">Menu abierto</string>
+    <string name="close">Menu cerrado</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="colores nombre">
+        <item>icon6</item>
+        <item>icon7</item>
+        <item>icon8</item>
+        <item>icon9</item>
+        <item>ico10</item>
+        <item>icon11</item>
+        <item>icon12</item>
+        <item>icon13</item>
+        <item>icon14</item>
+        <item>icon15</item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    x
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="loginTitle">#a00f0f</color>
+    <color name="menuBg">#291f1f</color>
+    <color name="icon1">#29b6f6</color>
+    <color name="icon2">#29b6f6</color>
+    <color name="icon3">#29b6f6</color>
+    <color name="icon4">#29b6f6</color>
+    <color name="icon5">#29b6f6</color>
+
+
+    <color name="icon6">#81c784</color>
+    <color name="icon7">#9ccc65</color>
+    <color name="icon8">#4db6ac</color>
+    <color name="icon9">#75a478</color>
+    <color name="icon10">#5a9216</color>
+    <color name="icon11">#ff8a65</color>
+    <color name="icon12">#64b5f6</color>
+    <color name="icon13">#039be5</color>
+    <color name="icon14">#f4511e</color>
+    <color name="icon15">#bdbdbd</color>
+
+    <integer-array name="colores">
+        <item>@color/icon6</item>
+        <item>@color/icon7</item>
+        <item>@color/icon8</item>
+        <item>@color/icon9</item>
+        <item>@color/icon10</item>
+        <item>@color/icon11</item>
+        <item>@color/icon12</item>
+        <item>@color/icon13</item>
+        <item>@color/icon14</item>
+        <item>@color/icon15</item>
+
+    </integer-array>
+
+
+
+</resources>
